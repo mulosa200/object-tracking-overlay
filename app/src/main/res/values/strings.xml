@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Overlay Tracker</string>
+    <string name="notification_title">Overlay Service</string>
+    <string name="notification_text">Object tracking overlay is active</string>
+    <string name="channel_name">Overlay Service Channel</string>
+    <string name="channel_description">Notifications for overlay tracking service</string>
+</resources>
